@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**rsxc/rsxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+console.log("Hello World 👋");
 
-Here are some ideas to get you started:
+const about = {
+	name: "Raghav Sethi",
+	position: "graduate 👨‍🎓",
+	techStack: {
+		languages: ["typescript"],
+		frontend: ["nextjs", "tailwind"],
+		backend: ["express"],
+		database: ["mysql", "postgresql"],
+		other: ["webSockets", "docker"]
+  	},
+	currentAdventure: "learning vim",
+	interests: ["tech", "cars", "understanding & improving things"],
+	whileAFK: "you will find me singing, cooking 🍳 or tinkering with tech 🤖",
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log("Have a great day! 🌻");
